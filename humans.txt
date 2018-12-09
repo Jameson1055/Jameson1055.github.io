@@ -1,0 +1,15 @@
+/* The Team /
+    Company: Donut Delights
+    Site: jam1055.github.io
+    Contact: jarbuckle10@stu.parkland.edu
+    Front End and Back End Developer: Jameson Arbuckle
+
+/ Thanks /
+    Jennifer Ding
+    URL: jrding.github.io
+    -teacher who had assigned this website
+
+/ Site */
+    Donut Delights
+    jam1055.github.io
+    Launch: December 2018
